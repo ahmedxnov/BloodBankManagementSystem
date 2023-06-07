@@ -1,0 +1,2 @@
+# BloodBankManagementSystem
+a C++ program to assist patients, by managing blood donation. The system allows users to register as donors or recipients. Donors can validate their eligibility based on age, health conditions, and last donation date. Recipients can search for available blood types, request specific quantities, and confirm the hospital details. The program utilizes appropriate data structures, prioritizes clean and efficient code, and saves data in files.
