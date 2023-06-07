@@ -1,0 +1,6 @@
+C:\Users\l\source\repos\BloodBankManagmentSystem\x64\Debug\BloodBankManagmentSystem.exe
+C:\Users\l\source\repos\BloodBankManagmentSystem\x64\Debug\BloodBankManagmentSystem.pdb
+D:\BloodBankManagmentSystem\x64\Debug\BloodBankManagmentSystem.exe
+D:\BloodBankManagmentSystem\x64\Debug\BloodBankManagmentSystem.pdb
+C:\Users\l\OneDrive\Desktop\Data Structures coursera\BloodBankManagementSystem-main\BloodBankManagementSystem-main\x64\Debug\BloodBankManagmentSystem.exe
+C:\Users\l\OneDrive\Desktop\Data Structures coursera\BloodBankManagementSystem-main\BloodBankManagementSystem-main\x64\Debug\BloodBankManagmentSystem.pdb

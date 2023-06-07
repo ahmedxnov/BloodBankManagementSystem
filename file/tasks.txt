@@ -1,0 +1,7 @@
+Bedo: Person.h/cpp - void BloodBank::printPersonData(string type)
+memo: Recipient.h/cpp - readJson - SaveJson
+nour: BloodData.h/cpp - displayBloodData()
+abdallah: Donor.h/cpp - deletePerson()
+ana: bloodbank.h
+ahmedx2: rest of the function
+main: all of us 
